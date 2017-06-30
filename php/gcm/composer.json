@@ -1,0 +1,17 @@
+{
+    "name": "gcm/gcm",
+    "description": "the obj that send the message to google cloud message server",
+    "type": "library",
+    "require": {
+        "minishlink/web-push": "1.0.1"
+    },
+    "authors": [
+        {
+            "name": "fire7617",
+            "email": "fire7617@gmail.com"
+        }
+    ],   
+    "autoload": {
+        "files": ["gcm.class.php"]
+    }
+}
